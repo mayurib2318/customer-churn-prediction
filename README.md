@@ -3,10 +3,8 @@
 This is a beginner-friendly, runnable starter project for customer churn prediction.
 It is a simplified learning project, **not a copy of the full upstream repository**.
 
-## Original GitHub project
-https://github.com/Achintya-Narula/customer-churn-ml
 
-Review the original repository's README and license before reusing its code. This starter package includes a small synthetic sample dataset so it can run locally without downloading data.
+
 
 ## What it does
 - Loads customer data with pandas
